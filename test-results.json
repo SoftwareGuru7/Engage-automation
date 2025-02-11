@@ -78,11 +78,11 @@
         {
           "title": "Announcement and Acknowledgment Tests",
           "file": "announcement.spec.ts",
-          "line": 7,
+          "line": 8,
           "column": 6,
           "specs": [
             {
-              "title": "Create and publish a basic announcement",
+              "title": "Disable manage announcement permission for HR Manager",
               "ok": true,
               "tags": [],
               "tests": [
@@ -96,11 +96,13 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
+                      "duration": 8583,
                       "duration": 14745,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
+                      "startTime": "2025-02-11T09:00:03.596Z",
                       "startTime": "2025-02-07T11:29:27.298Z",
                       "attachments": []
                     }
@@ -108,8 +110,10 @@
                   "status": "expected"
                 }
               ],
-              "id": "c5c4f3ebfbbd89b5f739-3150538f56f85798102e",
+              "id": "c5c4f3ebfbbd89b5f739-b3bf42431ae8c4055dff",
               "file": "announcement.spec.ts",
+              "line": 102,
+
               "line": 20,
               "column": 7
             },
@@ -457,9 +461,12 @@
   ],
   "errors": [],
   "stats": {
+    "startTime": "2025-02-11T09:00:03.061Z",
+    "duration": 9553.107,
+    "expected": 1,
     "startTime": "2025-02-07T11:29:26.300Z",
     "duration": 117905.71800000001,
-    "expected": 8,
+    "expected": 8, master
     "skipped": 0,
     "unexpected": 1,
     "flaky": 0

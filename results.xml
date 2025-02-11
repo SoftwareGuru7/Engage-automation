@@ -1,3 +1,8 @@
+
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.553107">
+<testsuite name="announcement.spec.ts" timestamp="2025-02-11T09:00:03.094Z" hostname="Chromium" tests="1" failures="0" skipped="0" time="8.583" errors="0">
+<testcase name="Announcement and Acknowledgment Tests › Disable manage announcement permission for HR Manager" classname="announcement.spec.ts" time="8.583">
+=======
 <testsuites id="" name="" tests="9" failures="1" skipped="0" errors="0" time="117.90571800000001">
 <testsuite name="announcement.spec.ts" timestamp="2025-02-07T11:29:26.530Z" hostname="Chromium" tests="9" failures="1" skipped="0" time="112.222" errors="0">
 <testcase name="Announcement and Acknowledgment Tests › Create and publish a basic announcement" classname="announcement.spec.ts" time="14.745">
